@@ -1,11 +1,13 @@
 <?php
 class
 {
-  private ;
+    private ;
 
     function __construct()
     {
-
+        
     }
+
+
 }
 ?>
